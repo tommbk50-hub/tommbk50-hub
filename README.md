@@ -13,7 +13,7 @@
 
 ## 🧪 About Me
 
-I work at the intersection of **chemistry, data science and machine learning**. I enjoy turning scientific and business data into clear insights and predictive models, and I share cheminformatics and data analysis tutorials on my YouTube channel, **[The Chemical Data Analyst](https://www.youtube.com/@TheChemicalDataAnalyst)**.
+I work at the intersection of **chemistry, data science, AI and machine learning**. I enjoy turning scientific data into clear insights and predictive models, and I share cheminformatics and data analysis tutorials on my YouTube channel, **[The Chemical Data Analyst](https://www.youtube.com/@TheChemicalDataAnalyst)**.
 
 - 🔭 Building machine learning models for chemistry, biology and public health data
 - 🧬 Exploring cheminformatics and structure-based drug discovery
