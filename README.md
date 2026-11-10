@@ -9,7 +9,21 @@
 
 </div>
 
-<div align="center">
+<div align="left">
+
+---
+
+## 🧪 About Me
+
+I work at the intersection of **chemistry, data science, AI and machine learning**. I enjoy turning scientific data into clear insights and predictive models, and I share cheminformatics and data analysis tutorials on my YouTube channel, **[The Chemical Data Analyst](https://www.youtube.com/@TheChemicalDataAnalyst)**.
+
+- 🔭 Building machine learning models for chemistry, biology and public health data
+- 🧬 Exploring cheminformatics and structure-based drug discovery
+- 📊 Applying Knowledge Discovery in Databases (KDD) workflows to real-world datasets
+- 🎥 Creating video walkthroughs of my Jupyter notebooks
+
+---
+
 
 # 🧪 Cheminformatics Colab Notebooks
 
@@ -26,19 +40,6 @@
 🖥️ **14 notebooks** &nbsp;·&nbsp; 🎥 **Video tutorial for every tool** &nbsp;·&nbsp; ⚡ **GPU-accelerated where it counts** &nbsp;·&nbsp; 🔬 **Covers drug discovery, libraries, reactions & analytics**
 
 </div>
-
----
-
----
-
-## 🧪 About Me
-
-I work at the intersection of **chemistry, data science, AI and machine learning**. I enjoy turning scientific data into clear insights and predictive models, and I share cheminformatics and data analysis tutorials on my YouTube channel, **[The Chemical Data Analyst](https://www.youtube.com/@TheChemicalDataAnalyst)**.
-
-- 🔭 Building machine learning models for chemistry, biology and public health data
-- 🧬 Exploring cheminformatics and structure-based drug discovery
-- 📊 Applying Knowledge Discovery in Databases (KDD) workflows to real-world datasets
-- 🎥 Creating video walkthroughs of my Jupyter notebooks
 
 ---
 
