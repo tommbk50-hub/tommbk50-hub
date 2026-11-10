@@ -9,6 +9,26 @@
 
 </div>
 
+<div align="center">
+
+# 🧪 Cheminformatics Colab Notebooks
+
+**Ready-to-run Google Colab notebooks for drug discovery, chemical library generation, reaction optimisation, and analytical chemistry.**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tommbk50-hub/Cheminformatics)
+[![YouTube](https://img.shields.io/badge/YouTube-TheChemicalDataAnalyst-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TheChemicalDataAnalyst)
+![GitHub last commit](https://img.shields.io/github/last-commit/tommbk50-hub/Cheminformatics)
+![GitHub Repo stars](https://img.shields.io/github/stars/tommbk50-hub/Cheminformatics?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/tommbk50-hub/Cheminformatics)
+
+<img src="assets/cheminformatics (1).gif" width="850" alt="Predictions demo">
+
+🖥️ **14 notebooks** &nbsp;·&nbsp; 🎥 **Video tutorial for every tool** &nbsp;·&nbsp; ⚡ **GPU-accelerated where it counts** &nbsp;·&nbsp; 🔬 **Covers drug discovery, libraries, reactions & analytics**
+
+</div>
+
+---
+
 ---
 
 ## 🧪 About Me
